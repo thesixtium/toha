@@ -40,7 +40,7 @@
   .timeline .vertical-line::after {
     content: "";
     position: absolute;
-    border-left: 3px solid #248aaa;
+    border-left: 0px solid #248aaa;
     z-index: 1;
     height: 100%;
     left: 50%;
